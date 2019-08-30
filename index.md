@@ -1,3 +1,7 @@
+# Eric Humphries's First CS193 Homework
+- My favorite moment was when one person got a question wrong because they keep changing answers
+- I liked how I got tips on writing my resume for internships
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
